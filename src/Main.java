@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
+
         GryffindorStudent harry = new GryffindorStudent(100, 70, 60 );
         harry.setApparitionRange(200);
         harry.setPowerOfMagic(90);
